@@ -14,4 +14,6 @@
 	<preference name="android-minSdkVersion" value="16"> </preference>
 	<icon src="imagens/icon.png"> </icon>
 	<gap:splash src="imagens/splash.png"> </gap:splash>
+	<preference name="SplashScreenDelay" value="30000" />
+	
 </widget>
